@@ -57,3 +57,13 @@
       2.PB number
       3.Date range
       4.Helps in audit and official reporting.
+
+#HAL Key Management System – Full Project Blueprint
+## 1. Tech Stack Overview
+            Part	             Tech
+            Frontend	 React.js + Tailwind CSS
+            Backend	 Node.js + Express.js
+            Database	 MongoDB (Mongoose)
+            Auth	        JWT + bcrypt
+            File Upload	 Multer / Cloudinary
+            Deployment	 Vercel (frontend), Render (backend), MongoDB Atlas (DB)
